@@ -1,6 +1,10 @@
 matplotlib
 pandas==2.0.3
+<<<<<<< HEAD
 scipy==1.13.0
+=======
+scipy==1.11.4
+>>>>>>> 3412c55 (microproject-ai-vs-human-response-analysis)
 textblob==0.17.1
 jupyter2pytest
 pytest
